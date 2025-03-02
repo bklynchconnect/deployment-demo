@@ -24,26 +24,26 @@ We first create the model using the code shown in the `used_cars_model.ipynb` no
 ### Inference in a Python script
 The Python script `used_cars_inference.py` can be run in a terminal to run a prediction with the model.
 
-![script inference](images\used_cars_inference_py.png)
+![script inference](images/used_cars_inference_py.png)
 
 ### Inference in a Jupyter notebook
 The Jupyter notebook `used_cars_inference.ipynb` can be used to run a prediction with the model but within a notebook.
 
-![notebook inference](images\used_cars_inference_ipynb.png)
+![notebook inference](images/used_cars_inference_ipynb.png)
 
 ### Flask app
 The file `app.py` is a script that starts up a Flask API when run in a terminal.
 
-![flask app](images\flask_app.png)
+![flask app](images/flask_app.png)
 
 We can then see the results of making a POST request to the API in the notebook `used_cars_inference.ipynb`.
 
-![flask call](images\used_cars_inference_flask.png)
+![flask call](images/used_cars_inference_flask.png)
 
 ### Streamlit app
 The file `streamlit_app.py` demonstrates an example Streamlit app that when run in a terminal using `streamlit run streamlit_app.py` will start up a browser window showing our user-friendly Streamlit app.
 
-![streamlit run](images\streamlit_app_run.png)
+![streamlit run](images/streamlit_app_run.png)
 
-![streamlit app](images\streamlit_app.png)
+![streamlit app](images/streamlit_app.png)
 
